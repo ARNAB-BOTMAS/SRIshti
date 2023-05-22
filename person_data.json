@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "sri",
+        "hii",
+        "hey",
+        "hello",
+        "srishti",
+        "hey sri",
+        "wake up",
+        "wake up sri"
+
+      ],
+      "responses": [
+        "Hello sir.",
+        "How Are You sir?",
+        "Always For You Sir.",
+        "Here is your assistant, How may I help you?"
+      ]
+    }
+  ]
+}
