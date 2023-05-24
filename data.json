@@ -1,0 +1,40 @@
+{
+  "person": [
+    {
+      "id": "01",
+      "name": "Arnab Mondal",
+      "gender": "Male",
+      "password": "123456"
+    },
+    {
+      "id": "02",
+      "name": "Amas Mondal",
+      "gender": "Male",
+      "password": "1234566"
+    },
+    {
+      "id": "016UM",
+      "name": "Arnab Mondal",
+      "gender": "Male",
+      "password": "Arnab@8016"
+    },
+    {
+      "id": "798MT",
+      "name": "Archana Mondal",
+      "gender": "Female",
+      "password": "123456789"
+    },
+    {
+      "id": "SRISHTI0002319163TJREO",
+      "name": "Arnab Mondal",
+      "gender": "Male",
+      "password": "123456"
+    },
+    {
+      "id": "SRISHTI0002312032HDAIN",
+      "name": "Arnab Mondal",
+      "gender": "Male",
+      "password": "123456"
+    }
+  ]
+}
